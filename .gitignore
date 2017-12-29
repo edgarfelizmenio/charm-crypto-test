@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+gmp-6.1.2
+openssl-1.1.0g
+pbc-0.5.14
